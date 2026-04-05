@@ -46,3 +46,4 @@ dist
 # Misc
 .DS_Store
 Thumbs.db
+/.idea
